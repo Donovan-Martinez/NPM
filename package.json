@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donovan-Martinez/NPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donovan-Martinez/NPM/issues"
+  },
+  "homepage": "https://github.com/Donovan-Martinez/NPM#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
